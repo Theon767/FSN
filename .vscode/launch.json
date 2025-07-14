@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug test_rendor_train.py",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/test_rendor_train.py",
+      "console": "integratedTerminal",
+      "justMyCode": false,
+      "env": {
+        "CUDA_LAUNCH_BLOCKING": "0"
+      }
+    }
+  ]
+}

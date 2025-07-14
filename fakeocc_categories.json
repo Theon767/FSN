@@ -1,0 +1,9 @@
+[
+  {"name": "furniture", "color": [255, 0, 0], "id": 1},
+  {"name": "living_supplies", "color": [255, 165, 0], "id": 2},
+  {"name": "wall", "color": [128, 0, 128], "id": 3},
+  {"name": "window", "color": [0, 255, 255], "id": 4},
+  {"name": "ceiling", "color": [255, 255, 0], "id": 5},
+  {"name": "door", "color": [0, 0, 255], "id": 6},
+  {"name": "floor", "color": [0, 128, 0], "id": 7}
+]
