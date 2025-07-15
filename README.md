@@ -16,7 +16,7 @@ The data can be accquired on [HuggingFace]()
 ### Training and Evaluation
 The training and evaluation step are describe in [run.md](docs/run.md)
 
-Great thanks to following great projects：
+Great thanks to following awesome projects：
 - [FCCLIP](https://github.com/bytedance/fc-clip)
 - [Surroundocc](https://github.com/weiyithu/SurroundOcc)
 - [POP3D](https://vobecant.github.io/POP3D/)
